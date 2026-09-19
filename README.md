@@ -1,6 +1,4 @@
----  
-You:  
-ANDROID STUDIO AGENT PROMPT — AURABEAT “APPLE MUSIC INSPIRED” APPEARANCE + FULL-SCREEN PLAYER CONTROL REDESIGN
+
 
 IMPORTANT:
 Use the two attached reference images as the visual/functional reference for the FULL-SCREEN PLAYER controls.
