@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm amardeep singh 
 
 Email Me 👉 ✉️ **amardeep12dfv@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-
+app logo
+https://github.com/aurabeat1/AuraBeat/blob/b6bd2b51ed7df132e8dd92822ed1b050bc517171/Logo.png
 Banner.png
 https://github.com/aurabeat1/AuraBeat/blob/6b8b7c0a24e475502204dd0708be2f0fcc3f387e/Banner.png
 
