@@ -2,6 +2,11 @@
 
 Email Me 👉 ✉️ **amardeep12dfv@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+
+Banner.png
+https://github.com/aurabeat1/AuraBeat/blob/6b8b7c0a24e475502204dd0708be2f0fcc3f387e/Banner.png
+
+
 - 🔭 **I’m currently working on:** 🎵 AuraBeat — Feel Every Beat. Live Every Frame. ✨
 
 🎧 AuraBeat is a modern Android music player designed for a premium listening experience. Enjoy 🎶 high-quality & lossless audio, 🎚️ powerful audio controls, 🎼 playlists, 🎛️ equalizer, 📝 lyrics, 🔊 background playback, 😴 sleep timer, and 🌌 a smooth AMOLED-inspired interface — all focused on giving you complete control over your music. 🚀
